@@ -22,16 +22,6 @@ Hi, I'm Joao Pedro Campista, a passionate individual diving into the exciting wo
 📬 Let's Collaborate
 
 I'm open to collaboration, mentorship, or just a friendly chat. Feel free to reach out via email or social media!
-🚀 My Projects
-
-    Project 1
-    Project 2
-
-🌈 Fun Facts
-
-    Enthusiastic about [specific tech or hobby].
-    Currently reading [book title].
-    [Random personal fact].
 
 🎯 Current Focus
 
