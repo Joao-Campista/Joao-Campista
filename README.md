@@ -1,3 +1,6 @@
+<div align="center"> 
+  <img src="logo_fd_transparente.png">
+</div>
 <div align="center"> Hey there! 👋 I'm Joao Pedro Campista, a Frontend Developer in the making! 🚀</div>
 <div align="center"> 
   <img src="https://img.shields.io/badge/status-learning-brightgreen">
