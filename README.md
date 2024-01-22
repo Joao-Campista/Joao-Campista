@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="logojs.png" width="200px">
+  <img src="logojs.png" width="100px">
 </div>
 <div align="center"> Hey there! 👋 I'm Joao Pedro Campista, a Frontend Developer in the making! 🚀</div>
 <div align="center"> 
